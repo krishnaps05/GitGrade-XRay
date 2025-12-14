@@ -36,4 +36,4 @@ It provides a health score, verdict, strengths, weaknesses, and a clear roadmap 
 
 ---
 
-## 📂 Project Structure
+
